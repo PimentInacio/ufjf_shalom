@@ -1,0 +1,78 @@
+/* Reset básico */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #4B3621; /* Cor inspirada no tom terroso da paleta */
+    background-color: #FAF3E0; /* Tom claro para o fundo */
+}
+
+/* Estilo do cabeçalho */
+.header {
+    background-color: #FFD9C0; /* Tom rosado suave */
+    text-align: center;
+    padding: 20px;
+    border-bottom: 4px solid #FFB085; /* Tom mais forte para destaque */
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    color: #4B3621;
+}
+
+.header p {
+    font-size: 1.2rem;
+    color: #4B3621;
+}
+
+/* Seção de links */
+.links-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.links-section h2 {
+    color: #FFB085;
+    margin-bottom: 20px;
+}
+
+.link-box {
+    margin: 10px auto;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #FFB085; /* Tom laranja-rosado */
+    border: 2px solid #FFD9C0;
+}
+
+.link-box a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.link-box a:hover {
+    color: #4B3621; /* Efeito ao passar o mouse */
+}
+
+/* Seção de informações */
+.info-section {
+    padding: 20px;
+    text-align: center;
+    line-height: 1.8;
+    color: #4B3621;
+}
+
+/* Rodapé */
+.footer {
+    background-color: #FFD9C0;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 4px solid #FFB085;
+}
+
+.footer p {
+    margin: 0;
+    color: #4B3621;
+}

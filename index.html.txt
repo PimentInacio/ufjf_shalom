@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto de Evangelização</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Projeto de Evangelização</h1>
+        <p><!-- Aqui você escreve a apresentação do projeto --> Breve apresentação do projeto...</p>
+    </header>
+
+    <main>
+        <section class="links-section">
+            <h2>Conecte-se Conosco</h2>
+            <div class="link-box">
+                <a href="https://www.instagram.com/shalomjuizdefora/" target="_blank">
+                    Instagram
+                </a>
+            </div>
+            <div class="link-box">
+                <a href="https://www.instagram.com/p/DCCMvA7R0SK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+                    OFFLINE
+                </a>
+            </div>
+        </section>
+
+        <section class="info-section">
+            <p>Esperamos por você!!</p>
+            <p>Nossas ações na UFJF:</p>
+            <p>→ Grupo de Oração Aberto, todas quartas às 17h no Gramado da Reitoria.</p>
+            <p>→ Grupo de Oração Aberto, todas segundas às 12h45min em frente à Biblioteca da Engenharia.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 - Projeto de Evangelização</p>
+    </footer>
+</body>
+</html>
